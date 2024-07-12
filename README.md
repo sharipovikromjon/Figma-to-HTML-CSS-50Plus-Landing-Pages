@@ -17,7 +17,7 @@ To view and use these landing pages locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/50-Landing-Pages-Design-to-Code.git
+    git clone https://github.com/sharipovikromjon/Figma-to-HTML-CSS-50Plus-Landing-Pages.gitf
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -25,9 +25,19 @@ To view and use these landing pages locally, follow these steps:
     ```
 3. **Open the HTML files** in your preferred web browser or editor.
 
+## Credits
+
+Special thanks to:
+
+- [Yan Liu](https://twitter.com/abbpandalyn) for the original Figma designs used in this project. Her work can be found [here](https://www.figma.com/@yanliu).
+
 ## Usage
 
 Each landing page is located in its own directory within the project. You can navigate through the folders to find the landing page you're interested in, and open the `index.html` file to view it in your browser. Customize and adapt the designs to fit your needs!
+
+## Figma Link
+
+[50+ Landing page designs](https://www.figma.com/design/mmndrBp7OKfNM9WcuSr0sT/50%2B-Landing-page-designs-(Community)?node-id=801-2256&m=dev)
 
 ## Contributing
 
