@@ -66,7 +66,6 @@ img {
 /* Images section styling START */
 .images__section {
   padding-top: 64px;
-  padding-bottom: 64px;
 }
 .images__list {
   display: flex;
@@ -74,6 +73,7 @@ img {
   column-gap: 16px;
   row-gap: 16px;
   flex-wrap: wrap;
+  padding-bottom: 64px;
 }
 .images {
   width: 316px;
