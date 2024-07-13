@@ -1,0 +1,88 @@
+/* Global styling START */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+.container {
+  width: 100%;
+  height: auto;
+  background: #fff;
+}
+/* Global styling END */
+
+/* Intro section styling START */
+.intro__list {
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+}
+#id__intro__items__content {
+  margin-right: 17px;
+}
+.intro__title {
+  padding-top: 137px;
+  width: 444px;
+  color: #252525;
+  font-size: 56px;
+  font-weight: 800;
+  line-height: 80px;
+  margin-bottom: 24px;
+}
+.intro__text {
+  width: 386px;
+  color: rgba(37, 37, 37, 0.8);
+  font-size: 26px;
+  font-weight: 400;
+  margin-bottom: 24px;
+}
+.intro__link {
+  display: inline-block;
+  padding: 16px 32px;
+  align-items: center;
+  gap: 10px;
+  border-radius: 16px;
+  background: #252525;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+}
+.intro__image {
+  width: 408px;
+  flex-shrink: 0;
+  border-radius: 16px;
+}
+#id__intro__image__1 {
+  padding-top: 65px;
+}
+#id__intro__image__2 {
+  padding-top: 217px;
+}
+/* Intro section styling END */
+
+
+/* Images section styling START */
+.images__list {
+  padding-top: 75px;
+}
+.images__photo {
+  width: 412px;
+}
+/* Images section styling END */
