@@ -77,12 +77,26 @@ img {
 }
 /* Intro section styling END */
 
-
 /* Images section styling START */
-.images__list {
+.images {
   padding-top: 75px;
+  margin-bottom: 63px;
 }
 .images__photo {
   width: 412px;
+  border-radius: 16px;
+}
+.images__list {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  align-items: center;
+}
+.images__number {
+  width: 368px;
+  color: rgba(37, 37, 37, 0.25);
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 4px;
 }
 /* Images section styling END */

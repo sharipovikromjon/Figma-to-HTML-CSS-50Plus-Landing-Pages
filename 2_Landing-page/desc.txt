@@ -1,0 +1,10 @@
+Made by: Ikromjon Sharipov
+Project: 50+ Landing pages design to code
+Challenge Start Date: 12-July, 2024
+
+Page two:
+  started: 14:20, 13-July, 2024
+  finished: 15:10, 13-July, 2024
+Time: 50 minutes
+
+Figma link: https://www.figma.com/design/mmndrBp7OKfNM9WcuSr0sT/50%2B-Landing-page-designs-(Community)?node-id=801-2760&m=dev
